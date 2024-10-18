@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
 
   <p align="center">
-    Unidad II: Programación de Vudeojuegos
+    Unidad II: Programación de Videojuegos
     <br>
     <a href="[https://reponame/issues/new?template=bug.md](https://drive.google.com/file/d/17jj7xeQrpnFsnJnE_cHQTD7d29YkNPnV/view?usp=drive_link)">Planificación de Videojuego</a>
     ·
