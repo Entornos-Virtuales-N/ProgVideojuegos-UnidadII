@@ -3,7 +3,9 @@
     <img src="https://denegocios.cl/wp-content/uploads/2022/10/Crear-Empresa-de-Video-Juegos.webp" alt="Logo" width=1200 height=300>
 
   <p align="center">
-    Unidad II: Programación de Videojuegos
+    Programación de Videojuegos
+    <br>
+    Unidad II: Programación orientada a objetos para videojuegos
     <br>
     <a href="https://reponame/issues/new?template=bug.md](https://drive.google.com/file/d/17jj7xeQrpnFsnJnE_cHQTD7d29YkNPnV/view?usp=drive_link">Planificación de Videojuego</a>
   </p>
