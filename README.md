@@ -1,11 +1,11 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+    <img src="[https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg](https://estaticos-cdn.prensaiberica.es/clip/6b979440-569d-48a3-9a1d-e56f1028ad26_16-9-discover-aspect-ratio_default_0.)" alt="Logo" width=1200 height=300>
 
   <p align="center">
-    Short description
+    Unidad II: Programación de Vudeojuegos
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    <a href="[https://reponame/issues/new?template=bug.md](https://drive.google.com/file/d/17jj7xeQrpnFsnJnE_cHQTD7d29YkNPnV/view?usp=drive_link)">Planificación de Videojuego</a>
     ·
     <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
@@ -26,7 +26,7 @@
 - Cat Far From Home
 
 - Objetivo
-Cear interacción entre el usuario jugador y el personaje para que cat pueda estar de regreso a casa de la mejor forma
+Cear interacción entre el usuario jugador y el personaje para que Cat pueda estar de regreso a casa de la mejor forma
 cruzando todos y cada uno de los obstaculos en cada uno de los niveles.
 
 - Clasificación
@@ -93,27 +93,27 @@ revelen información sobre el siguiente paso.
 * Lección 1
   * > Prototipo_1
   * > Laboratorio
-  * > git@github.com:Entornos-Virtuales-N/ProgVideojuegos-UnidadII.git
+  * > <a href="git@github.com:Entornos-Virtuales-N/ProgVideojuegos-UnidadII.git">Prototipo_1</a>
   * > Prueba
 * Lección 2
   * > Challenge_1
   * > Laboratorio
-  * > git@github.com:Entornos-Virtuales-N/ProgVideojuegos-UnidadII.git
+  * > <a href="git@github.com:Entornos-Virtuales-N/ProgVideojuegos-UnidadII.git">Challenge_1</a>
   * > Prueba
 * Lección 3
   * > Prototipo_2
   * > Laboratorio
-  * > Desafío
+  * > <a href="git@github.com:Entornos-Virtuales-N/ProgVideojuegos-UnidadII.git">Prototipo_2</a>
   * > Prueba
 * Lección 4
   * > Challenge_2
   * > Laboratorio
-  * > git@github.com:Entornos-Virtuales-N/ProgVideojuegos-UnidadII.git
+  * > <a href="">Challenge_2</a>
   * > Prueba
 * Lección 5
   * > Prototipo_3
   * > <a href="https://reponame/issues/new?template=bug.md">Reporte</a>
-  * > Desafío
+  * > <a href="">Prototipo_3</a>
   * > Prueba
 * VideoJuego
 
