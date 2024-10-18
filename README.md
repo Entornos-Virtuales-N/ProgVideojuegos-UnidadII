@@ -93,17 +93,17 @@ revelen información sobre el siguiente paso.
 * Lección 1
   * > Prototipo_1
   * > Laboratorio
-  * > <a href="git@github.com:Entornos-Virtuales-N/ProgVideojuegos-UnidadII.git">Prototipo_1</a>
+  * > <a href="https://github.com/Entornos-Virtuales-N/ProgVideojuegos-UnidadII.git">Prototipo_1</a>
   * > Prueba
 * Lección 2
   * > Challenge_1
   * > Laboratorio
-  * > <a href="git@github.com:Entornos-Virtuales-N/ProgVideojuegos-UnidadII.git">Challenge_1</a>
+  * > <a href="https://github.com/Entornos-Virtuales-N/ProgVideojuegos-UnidadII.git">Challenge_1</a>
   * > Prueba
 * Lección 3
   * > Prototipo_2
   * > Laboratorio
-  * > <a href="git@github.com:Entornos-Virtuales-N/ProgVideojuegos-UnidadII.git">Prototipo_2</a>
+  * > <a href="https://github.com/Entornos-Virtuales-N/ProgVideojuegos-UnidadII.git">Prototipo_2</a>
   * > Prueba
 * Lección 4
   * > Challenge_2
