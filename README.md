@@ -93,12 +93,12 @@ revelen información sobre el siguiente paso.
 * Lección 1
   * > Prototipo_1
   * > Laboratorio
-  * > Desafío
+  * > git@github.com:Entornos-Virtuales-N/ProgVideojuegos-UnidadII.git
   * > Prueba
 * Lección 2
   * > Challenge_1
   * > Laboratorio
-  * > Desafío
+  * > git@github.com:Entornos-Virtuales-N/ProgVideojuegos-UnidadII.git
   * > Prueba
 * Lección 3
   * > Prototipo_2
@@ -108,7 +108,7 @@ revelen información sobre el siguiente paso.
 * Lección 4
   * > Challenge_2
   * > Laboratorio
-  * > Desafío
+  * > git@github.com:Entornos-Virtuales-N/ProgVideojuegos-UnidadII.git
   * > Prueba
 * Lección 5
   * > Prototipo_3
