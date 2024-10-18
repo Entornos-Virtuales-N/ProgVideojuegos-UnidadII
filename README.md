@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="[https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg](https://estaticos-cdn.prensaiberica.es/clip/6b979440-569d-48a3-9a1d-e56f1028ad26_16-9-discover-aspect-ratio_default_0.)" alt="Logo" width=1200 height=300>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.levante-emv.com%2Fvida-y-estilo%2Ftecnologia%2Fvideojuegos%2F2021%2F01%2F13%2Fjuegos-siete-videojuegos-preocupan-padres-27978103.html&psig=AOvVaw3xCwyylQNSimCx8X_u0daR&ust=1729298554892000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjahrLZlokDFQAAAAAdAAAAABAE" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Unidad II: Programación de Vudeojuegos
